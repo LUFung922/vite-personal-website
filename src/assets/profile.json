@@ -1,22 +1,10 @@
 {
-  "username": "Chieh Tu",
+  "username": "Howard Tang",
   "context": "Hi! there",
   "socialsList": [
     {
-      "name": "Facebook",
-      "url": "https://www.facebook.com/jd615645"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/jd615645"
-    },
-    {
-      "name": "Github",
-      "url": "https://github.com/jd615645"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/chieh-tu/"
+      "name": "Google",
+      "url": "https://www.google.com/"
     }
   ],
   "style": {
